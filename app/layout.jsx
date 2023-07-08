@@ -9,8 +9,8 @@ const nunito = Nunito({
 })
 
 export const metadata = {
-  title: 'Berke Guleryuz',
-  description: 'Futuristic Web Developer',
+  title: 'Berke Guleryuz || Web Services',
+  description: 'Futuristic Web Developer & Community Manager',
 }
 
 
