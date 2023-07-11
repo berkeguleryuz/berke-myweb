@@ -101,7 +101,7 @@ const Nav = () => {
     }
 
 
-      <div className='absolute left-[48%] translate-x-[-50%]'>
+      <div className='absolute left-[50%] translate-x-[-50%]'>
         <Logo />
       </div>
     </header>

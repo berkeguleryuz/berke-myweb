@@ -5,6 +5,7 @@ import profilePic from "@/public/images/profile/berke0yeni.png"
 import AnimatedText from '@/components/AnimatedText';
 import Hire from '@/components/Hire';
 import Layout from '@/components/Layout';
+import Footer from '@/components/Footer';
 
 
 export default function Home() {
@@ -33,6 +34,7 @@ export default function Home() {
               </div>
             </div>  
           </div>
+            <Footer />
         </Layout>
     </div>
     </>
