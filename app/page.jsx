@@ -25,8 +25,8 @@ export default function Home() {
               As a Developer, I am <span className="text-[#5651e5]"><ReactRotatingText items={['turning your ideas into innovative web projects.', 'creating websites for you.', 'building web applications.']} /></span>
             </p>
             <hr />
-            <p className='font-bold text-center items-center my-1 text-base'>
-            As a Community Manager, I'd like to <span className="text-[#ed7611]"><ReactRotatingText items={['manage your social accounts.', 'create qualified community.', 'promote your project.']} /></span>
+            <p className='font-medium text-center items-center my-1 text-base'>
+            As a Community Manager, I'd like to create and manage your social accounts & communities.
             </p>
             </div>
               <div className='flex items-center self-center mt-2 lg:self-center'>
