@@ -19,7 +19,7 @@ export default function Home() {
             <Image src={profilePic} alt="Berke" className='w-full h-auto lg:hidden md:inline-block' priority sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 50vw" />
           </div>
             <div className='w-1/2 flex flex-col items-center self-center p-2 xl:p-24 lg:p-16 lg:w-full md:p-1 sm:p-8'>
-            <AnimatedText text="I'm making future visions and dreams come true." className='!text-5xl xl:!text-3xl lg:!text-4xl md:!text-2xl sm:!text-2xl' />
+            <AnimatedText text="I'm making future visions and dreams come true." className='!text-4xl xl:!text-3xl lg:!text-4xl md:!text-2xl sm:!text-2xl' />
             <div className='static'>
             <p className='font-bold text-center items-center my-2 text-base'>
               As a Developer, I am <span className="text-[#5651e5]"><ReactRotatingText items={['turning your ideas into innovative web projects.', 'creating websites for you.', 'building web applications.']} /></span>
